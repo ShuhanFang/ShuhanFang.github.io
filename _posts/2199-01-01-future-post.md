@@ -1,6 +1,6 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
+title: '黄昏见证虔诚的信徒'
+date: 2023-12-21
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
